@@ -1,5 +1,6 @@
 {
     "name": "Moon phases FP",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
